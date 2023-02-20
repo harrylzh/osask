@@ -1,0 +1,1 @@
+pacman -S mingw-w64-cross-gcc 
